@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenProject" duration-ms="79" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+    <groups>
+    </groups>
+    <test name="Testing Maven Project " duration-ms="79" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+      <class name="com.demo.ThirdClass">
+        <test-method status="PASS" signature="areatriangle()[pri:0, instance:com.demo.ThirdClass@17f6480]" name="areatriangle" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- areatriangle -->
+        <test-method status="PASS" signature="arearectangle()[pri:0, instance:com.demo.ThirdClass@17f6480]" name="arearectangle" duration-ms="0" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arearectangle -->
+        <test-method status="PASS" signature="perirectangle()[pri:0, instance:com.demo.ThirdClass@17f6480]" name="perirectangle" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perirectangle -->
+      </class> <!-- com.demo.ThirdClass -->
+      <class name="com.demo.FourthClass">
+        <test-method status="PASS" signature="areacuboid()[pri:0, instance:com.demo.FourthClass@16e8792]" name="areacuboid" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- areacuboid -->
+        <test-method status="PASS" signature="lsacuboid()[pri:0, instance:com.demo.FourthClass@16e8792]" name="lsacuboid" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsacuboid -->
+        <test-method status="PASS" signature="tsacuboid()[pri:0, instance:com.demo.FourthClass@16e8792]" name="tsacuboid" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsacuboid -->
+      </class> <!-- com.demo.FourthClass -->
+      <class name="com.demo.SecondClass">
+        <test-method status="PASS" signature="cube()[pri:0, instance:com.demo.SecondClass@1adae5d]" name="cube" duration-ms="0" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cube -->
+        <test-method status="PASS" signature="modulus()[pri:0, instance:com.demo.SecondClass@1adae5d]" name="modulus" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modulus -->
+        <test-method status="PASS" signature="square()[pri:0, instance:com.demo.SecondClass@1adae5d]" name="square" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- square -->
+      </class> <!-- com.demo.SecondClass -->
+      <class name="com.demo.FirstClass">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.demo.FirstClass@1be98f5]" name="add" duration-ms="15" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="divide()[pri:0, instance:com.demo.FirstClass@1be98f5]" name="divide" duration-ms="1" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:com.demo.FirstClass@1be98f5]" name="multiply" duration-ms="0" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="subtract()[pri:0, instance:com.demo.FirstClass@1be98f5]" name="subtract" duration-ms="0" started-at="2018-06-24T21:43:50Z" finished-at="2018-06-24T21:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract -->
+      </class> <!-- com.demo.FirstClass -->
+    </test> <!-- Testing Maven Project  -->
+  </suite> <!-- MavenProject -->
+</testng-results>

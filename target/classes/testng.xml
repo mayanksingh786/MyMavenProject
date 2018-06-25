@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "MavenProject">
+	<test name = "Testing Maven Project ">
+		<classes>
+			
+			<class name = "com.demo.FirstClass"></class>
+			<class name = "com.demo.SecondClass"></class>
+			<class name = "com.demo.ThirdClass"></class>
+			<class name = "com.demo.FourthClass"></class>
+		</classes>
+	</test>
+	
+	
+	
+</suite>
